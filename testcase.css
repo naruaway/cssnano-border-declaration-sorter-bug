@@ -1,0 +1,5 @@
+.border-top-test {
+  border-color: purple;
+  border-top-width: 1px;
+  border-top-style: solid;
+}
