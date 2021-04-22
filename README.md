@@ -1,4 +1,5 @@
 The latest version of [`cssnano`](https://github.com/cssnano/cssnano/) (`5.0.1`) 's default preset breaks border related styles by `cssDeclarationSorter`.
+The issue is reported in <https://github.com/cssnano/cssnano/issues/1054>
 
 This repo is self-contained example to reproduce the issue.
 First please run `npm ci` to install the relevant packages in this directory.
